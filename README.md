@@ -1,4 +1,4 @@
-# Instacart Reorder Prediction System
+# Instacart Product Recommendation
 
 This project develops a machine learning pipeline to predict which products users are likely to reorder, using the Instacart Online Grocery Shopping Dataset. It consists of two main components: exploratory modeling and final classification pipeline implementation.
 
